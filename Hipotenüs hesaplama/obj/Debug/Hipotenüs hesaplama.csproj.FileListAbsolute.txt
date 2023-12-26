@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Hipotenüs hesaplama\Hipotenüs hesaplama\bin\Debug\Hipotenüs hesaplama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Hipotenüs hesaplama\Hipotenüs hesaplama\bin\Debug\Hipotenüs hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Hipotenüs hesaplama\Hipotenüs hesaplama\bin\Debug\Hipotenüs hesaplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Hipotenüs hesaplama\Hipotenüs hesaplama\obj\Debug\Hipotenüs hesaplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Hipotenüs hesaplama\Hipotenüs hesaplama\obj\Debug\Hipotenüs hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Hipotenüs hesaplama\Hipotenüs hesaplama\obj\Debug\Hipotenüs_hesaplama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Hipotenüs hesaplama\Hipotenüs hesaplama\obj\Debug\Hipotenüs_hesaplama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Hipotenüs hesaplama\Hipotenüs hesaplama\obj\Debug\Hipotenüs hesaplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Hipotenüs hesaplama\Hipotenüs hesaplama\obj\Debug\Hipotenüs hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Hipotenüs hesaplama\Hipotenüs hesaplama\obj\Debug\Hipotenüs hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\Yezda Açık\Hipotenüs hesaplama\Hipotenüs hesaplama\obj\Debug\Hipotenüs hesaplama.pdb
+C:\Users\User\Downloads\hipotenushesaplama-main\Hipotenüs hesaplama\bin\Debug\Hipotenüs hesaplama.exe.config
+C:\Users\User\Downloads\hipotenushesaplama-main\Hipotenüs hesaplama\bin\Debug\Hipotenüs hesaplama.exe
+C:\Users\User\Downloads\hipotenushesaplama-main\Hipotenüs hesaplama\bin\Debug\Hipotenüs hesaplama.pdb
+C:\Users\User\Downloads\hipotenushesaplama-main\Hipotenüs hesaplama\obj\Debug\Hipotenüs hesaplama.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\hipotenushesaplama-main\Hipotenüs hesaplama\obj\Debug\Hipotenüs hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\hipotenushesaplama-main\Hipotenüs hesaplama\obj\Debug\Hipotenüs_hesaplama.Form1.resources
+C:\Users\User\Downloads\hipotenushesaplama-main\Hipotenüs hesaplama\obj\Debug\Hipotenüs_hesaplama.Properties.Resources.resources
+C:\Users\User\Downloads\hipotenushesaplama-main\Hipotenüs hesaplama\obj\Debug\Hipotenüs hesaplama.csproj.GenerateResource.cache
+C:\Users\User\Downloads\hipotenushesaplama-main\Hipotenüs hesaplama\obj\Debug\Hipotenüs hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\hipotenushesaplama-main\Hipotenüs hesaplama\obj\Debug\Hipotenüs hesaplama.exe
+C:\Users\User\Downloads\hipotenushesaplama-main\Hipotenüs hesaplama\obj\Debug\Hipotenüs hesaplama.pdb
